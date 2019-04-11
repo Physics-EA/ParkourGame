@@ -1,0 +1,1377 @@
+fileFormatVersion: 2
+guid: 80cfa86f73b2f49f9940fea36d10e3aa
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: polySurface1
+    100004: scurity_guard_rig_Ankle_L
+    100006: scurity_guard_rig_Ankle_R
+    100008: scurity_guard_rig_BackA_M
+    100010: scurity_guard_rig_BackB_M
+    100012: scurity_guard_rig_BigToe_L
+    100014: scurity_guard_rig_BigToe_R
+    100016: scurity_guard_rig_Chest_M
+    100018: scurity_guard_rig_Cup_L
+    100020: scurity_guard_rig_Cup_R
+    100022: scurity_guard_rig_DeformationSystem
+    100024: scurity_guard_rig_Elbow_L
+    100026: scurity_guard_rig_Elbow_R
+    100028: scurity_guard_rig_ElbowPart1_L
+    100030: scurity_guard_rig_ElbowPart1_R
+    100032: scurity_guard_rig_ElbowPart2_L
+    100034: scurity_guard_rig_ElbowPart2_R
+    100036: scurity_guard_rig_Eye1_L
+    100038: scurity_guard_rig_Eye1_R
+    100040: scurity_guard_rig_Eye_L
+    100042: scurity_guard_rig_Eye_R
+    100044: scurity_guard_rig_Group
+    100046: scurity_guard_rig_Hair_M
+    100048: scurity_guard_rig_Head_M
+    100050: scurity_guard_rig_Hip_L
+    100052: scurity_guard_rig_Hip_R
+    100054: scurity_guard_rig_HipPart1_L
+    100056: scurity_guard_rig_HipPart1_R
+    100058: scurity_guard_rig_HipPart2_L
+    100060: scurity_guard_rig_HipPart2_R
+    100062: scurity_guard_rig_IndexFinger1_L
+    100064: scurity_guard_rig_IndexFinger1_R
+    100066: scurity_guard_rig_IndexFinger2_L
+    100068: scurity_guard_rig_IndexFinger2_R
+    100070: scurity_guard_rig_IndexFinger3_L
+    100072: scurity_guard_rig_IndexFinger3_R
+    100074: scurity_guard_rig_IndexFinger4_L
+    100076: scurity_guard_rig_IndexFinger4_R
+    100078: scurity_guard_rig_Jaw_M
+    100080: scurity_guard_rig_JawEnd_M
+    100082: scurity_guard_rig_Knee_L
+    100084: scurity_guard_rig_Knee_R
+    100086: scurity_guard_rig_Main
+    100088: scurity_guard_rig_MiddleFinger1_L
+    100090: scurity_guard_rig_MiddleFinger1_R
+    100092: scurity_guard_rig_MiddleFinger2_L
+    100094: scurity_guard_rig_MiddleFinger2_R
+    100096: scurity_guard_rig_MiddleFinger3_L
+    100098: scurity_guard_rig_MiddleFinger3_R
+    100100: scurity_guard_rig_MiddleFinger4_L
+    100102: scurity_guard_rig_MiddleFinger4_R
+    100104: scurity_guard_rig_MiddleToe1_L
+    100106: scurity_guard_rig_MiddleToe1_R
+    100108: scurity_guard_rig_MiddleToe2_L
+    100110: scurity_guard_rig_MiddleToe2_R
+    100112: scurity_guard_rig_Neck_M
+    100114: scurity_guard_rig_NeckPart1_M
+    100116: scurity_guard_rig_NeckPart2_M
+    100118: scurity_guard_rig_PinkyFinger1_L
+    100120: scurity_guard_rig_PinkyFinger1_R
+    100122: scurity_guard_rig_PinkyFinger2_L
+    100124: scurity_guard_rig_PinkyFinger2_R
+    100126: scurity_guard_rig_PinkyFinger3_L
+    100128: scurity_guard_rig_PinkyFinger3_R
+    100130: scurity_guard_rig_PinkyFinger4_L
+    100132: scurity_guard_rig_PinkyFinger4_R
+    100134: scurity_guard_rig_PinkyToe_L
+    100136: scurity_guard_rig_PinkyToe_R
+    100138: scurity_guard_rig_RingFinger1_L
+    100140: scurity_guard_rig_RingFinger1_R
+    100142: scurity_guard_rig_RingFinger2_L
+    100144: scurity_guard_rig_RingFinger2_R
+    100146: scurity_guard_rig_RingFinger3_L
+    100148: scurity_guard_rig_RingFinger3_R
+    100150: scurity_guard_rig_RingFinger4_L
+    100152: scurity_guard_rig_RingFinger4_R
+    100154: scurity_guard_rig_Root_M
+    100156: scurity_guard_rig_Scapula_L
+    100158: scurity_guard_rig_Scapula_R
+    100160: scurity_guard_rig_Shoulder_L
+    100162: scurity_guard_rig_Shoulder_R
+    100164: scurity_guard_rig_ShoulderPart1_L
+    100166: scurity_guard_rig_ShoulderPart1_R
+    100168: scurity_guard_rig_ShoulderPart2_L
+    100170: scurity_guard_rig_ShoulderPart2_R
+    100172: scurity_guard_rig_ThumbFinger1_L
+    100174: scurity_guard_rig_ThumbFinger1_R
+    100176: scurity_guard_rig_ThumbFinger2_L
+    100178: scurity_guard_rig_ThumbFinger2_R
+    100180: scurity_guard_rig_ThumbFinger3_L
+    100182: scurity_guard_rig_ThumbFinger3_R
+    100184: scurity_guard_rig_ThumbFinger4_L
+    100186: scurity_guard_rig_ThumbFinger4_R
+    100188: scurity_guard_rig_Wrist_L
+    100190: scurity_guard_rig_Wrist_R
+    100192: scurity_guard_rigRNgroup
+    100194: scurity_guard_rigRNlocator
+    400000: //RootNode
+    400002: polySurface1
+    400004: scurity_guard_rig_Ankle_L
+    400006: scurity_guard_rig_Ankle_R
+    400008: scurity_guard_rig_BackA_M
+    400010: scurity_guard_rig_BackB_M
+    400012: scurity_guard_rig_BigToe_L
+    400014: scurity_guard_rig_BigToe_R
+    400016: scurity_guard_rig_Chest_M
+    400018: scurity_guard_rig_Cup_L
+    400020: scurity_guard_rig_Cup_R
+    400022: scurity_guard_rig_DeformationSystem
+    400024: scurity_guard_rig_Elbow_L
+    400026: scurity_guard_rig_Elbow_R
+    400028: scurity_guard_rig_ElbowPart1_L
+    400030: scurity_guard_rig_ElbowPart1_R
+    400032: scurity_guard_rig_ElbowPart2_L
+    400034: scurity_guard_rig_ElbowPart2_R
+    400036: scurity_guard_rig_Eye1_L
+    400038: scurity_guard_rig_Eye1_R
+    400040: scurity_guard_rig_Eye_L
+    400042: scurity_guard_rig_Eye_R
+    400044: scurity_guard_rig_Group
+    400046: scurity_guard_rig_Hair_M
+    400048: scurity_guard_rig_Head_M
+    400050: scurity_guard_rig_Hip_L
+    400052: scurity_guard_rig_Hip_R
+    400054: scurity_guard_rig_HipPart1_L
+    400056: scurity_guard_rig_HipPart1_R
+    400058: scurity_guard_rig_HipPart2_L
+    400060: scurity_guard_rig_HipPart2_R
+    400062: scurity_guard_rig_IndexFinger1_L
+    400064: scurity_guard_rig_IndexFinger1_R
+    400066: scurity_guard_rig_IndexFinger2_L
+    400068: scurity_guard_rig_IndexFinger2_R
+    400070: scurity_guard_rig_IndexFinger3_L
+    400072: scurity_guard_rig_IndexFinger3_R
+    400074: scurity_guard_rig_IndexFinger4_L
+    400076: scurity_guard_rig_IndexFinger4_R
+    400078: scurity_guard_rig_Jaw_M
+    400080: scurity_guard_rig_JawEnd_M
+    400082: scurity_guard_rig_Knee_L
+    400084: scurity_guard_rig_Knee_R
+    400086: scurity_guard_rig_Main
+    400088: scurity_guard_rig_MiddleFinger1_L
+    400090: scurity_guard_rig_MiddleFinger1_R
+    400092: scurity_guard_rig_MiddleFinger2_L
+    400094: scurity_guard_rig_MiddleFinger2_R
+    400096: scurity_guard_rig_MiddleFinger3_L
+    400098: scurity_guard_rig_MiddleFinger3_R
+    400100: scurity_guard_rig_MiddleFinger4_L
+    400102: scurity_guard_rig_MiddleFinger4_R
+    400104: scurity_guard_rig_MiddleToe1_L
+    400106: scurity_guard_rig_MiddleToe1_R
+    400108: scurity_guard_rig_MiddleToe2_L
+    400110: scurity_guard_rig_MiddleToe2_R
+    400112: scurity_guard_rig_Neck_M
+    400114: scurity_guard_rig_NeckPart1_M
+    400116: scurity_guard_rig_NeckPart2_M
+    400118: scurity_guard_rig_PinkyFinger1_L
+    400120: scurity_guard_rig_PinkyFinger1_R
+    400122: scurity_guard_rig_PinkyFinger2_L
+    400124: scurity_guard_rig_PinkyFinger2_R
+    400126: scurity_guard_rig_PinkyFinger3_L
+    400128: scurity_guard_rig_PinkyFinger3_R
+    400130: scurity_guard_rig_PinkyFinger4_L
+    400132: scurity_guard_rig_PinkyFinger4_R
+    400134: scurity_guard_rig_PinkyToe_L
+    400136: scurity_guard_rig_PinkyToe_R
+    400138: scurity_guard_rig_RingFinger1_L
+    400140: scurity_guard_rig_RingFinger1_R
+    400142: scurity_guard_rig_RingFinger2_L
+    400144: scurity_guard_rig_RingFinger2_R
+    400146: scurity_guard_rig_RingFinger3_L
+    400148: scurity_guard_rig_RingFinger3_R
+    400150: scurity_guard_rig_RingFinger4_L
+    400152: scurity_guard_rig_RingFinger4_R
+    400154: scurity_guard_rig_Root_M
+    400156: scurity_guard_rig_Scapula_L
+    400158: scurity_guard_rig_Scapula_R
+    400160: scurity_guard_rig_Shoulder_L
+    400162: scurity_guard_rig_Shoulder_R
+    400164: scurity_guard_rig_ShoulderPart1_L
+    400166: scurity_guard_rig_ShoulderPart1_R
+    400168: scurity_guard_rig_ShoulderPart2_L
+    400170: scurity_guard_rig_ShoulderPart2_R
+    400172: scurity_guard_rig_ThumbFinger1_L
+    400174: scurity_guard_rig_ThumbFinger1_R
+    400176: scurity_guard_rig_ThumbFinger2_L
+    400178: scurity_guard_rig_ThumbFinger2_R
+    400180: scurity_guard_rig_ThumbFinger3_L
+    400182: scurity_guard_rig_ThumbFinger3_R
+    400184: scurity_guard_rig_ThumbFinger4_L
+    400186: scurity_guard_rig_ThumbFinger4_R
+    400188: scurity_guard_rig_Wrist_L
+    400190: scurity_guard_rig_Wrist_R
+    400192: scurity_guard_rigRNgroup
+    400194: scurity_guard_rigRNlocator
+    4300000: polySurface1
+    7400000: Idle_1
+    7400002: Idle_2
+    7400004: Run
+    7400006: Jump
+    7400008: Strafe_Right
+    7400010: Strafe_Left
+    7400012: Death
+    7400014: Slide
+    9500000: //RootNode
+    13700000: polySurface1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle_1
+      takeName: Take 001
+      firstFrame: 220
+      lastFrame: 274
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle_2
+      takeName: Take 001
+      firstFrame: 275
+      lastFrame: 345
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 18
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Strafe_Right
+      takeName: Take 001
+      firstFrame: 191
+      lastFrame: 216
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Strafe_Left
+      takeName: Take 001
+      firstFrame: 165
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 141
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Slide
+      takeName: Take 001
+      firstFrame: 105
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: scurity_guard_rig_Root_M
+      humanName: Hips
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.007555474, y: 0, z: 0.003777737}
+        length: 0.009444345
+        modified: 1
+    - boneName: scurity_guard_rig_Hip_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60.000004, y: -60.000004, z: -90}
+        max: {x: 60.000004, y: 60.000004, z: 50}
+        value: {x: 0.020328648, y: 0, z: 0.010164324}
+        length: 0.02541082
+        modified: 1
+    - boneName: scurity_guard_rig_Hip_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60.000004, y: -60.000004, z: -90}
+        max: {x: 60.000004, y: 60.000004, z: 50}
+        value: {x: 0.020328665, y: 0, z: 0.010164333}
+        length: 0.02541084
+        modified: 1
+    - boneName: scurity_guard_rig_Knee_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.021400722, y: 0, z: 0.010700361}
+        length: 0.026750911
+        modified: 1
+    - boneName: scurity_guard_rig_Knee_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.021400753, y: 0, z: 0.010700377}
+        length: 0.02675095
+        modified: 1
+    - boneName: scurity_guard_rig_Ankle_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30.000002, z: -50}
+        max: {x: 0, y: 30.000002, z: 50}
+        value: {x: 0.0077580553, y: 0, z: 0.0038790277}
+        length: 0.009697571
+        modified: 1
+    - boneName: scurity_guard_rig_Ankle_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30.000002, z: -50}
+        max: {x: 0, y: 30.000002, z: 50}
+        value: {x: 0.0077580283, y: 0, z: 0.0038790142}
+        length: 0.009697538
+        modified: 1
+    - boneName: scurity_guard_rig_BackA_M
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.0073977183, y: 0, z: 0.0036988591}
+        length: 0.00924715
+        modified: 1
+    - boneName: scurity_guard_rig_BackB_M
+      humanName: Chest
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.02517183, y: 0, z: 0.012585915}
+        length: 0.031464797
+        modified: 1
+    - boneName: scurity_guard_rig_NeckPart1_M
+      humanName: Neck
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.0045121782, y: 0, z: 0.0022560891}
+        length: 0.005640225
+        modified: 1
+    - boneName: scurity_guard_rig_Head_M
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.0045121782, y: 0, z: 0.0022560891}
+        length: 0.005640225
+        modified: 1
+    - boneName: scurity_guard_rig_Scapula_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.000002}
+        value: {x: 0.007807695, y: 0, z: 0.0039038474}
+        length: 0.009759621
+        modified: 1
+    - boneName: scurity_guard_rig_Scapula_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.000002}
+        value: {x: 0.007807679, y: 0, z: 0.0039038395}
+        length: 0.009759601
+        modified: 1
+    - boneName: scurity_guard_rig_Shoulder_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.000004}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0.018315574, y: 0, z: 0.009157787}
+        length: 0.022894476
+        modified: 1
+    - boneName: scurity_guard_rig_Shoulder_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.000004}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0.018315597, y: 0, z: 0.009157798}
+        length: 0.022894505
+        modified: 1
+    - boneName: scurity_guard_rig_Elbow_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.015049828, y: 0, z: 0.007524914}
+        length: 0.01881229
+        modified: 1
+    - boneName: scurity_guard_rig_Elbow_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.015049809, y: 0, z: 0.0075249043}
+        length: 0.018812265
+        modified: 1
+    - boneName: scurity_guard_rig_Wrist_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0.007524914, y: 0, z: 0.003762457}
+        length: 0.009406145
+        modified: 1
+    - boneName: scurity_guard_rig_Wrist_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0.0075249043, y: 0, z: 0.0037624522}
+        length: 0.009406133
+        modified: 1
+    - boneName: scurity_guard_rig_MiddleToe1_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: 0.0050652637, y: 0, z: 0.0025326319}
+        length: 0.006331582
+        modified: 1
+    - boneName: scurity_guard_rig_MiddleToe1_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: 0.0050652702, y: 0, z: 0.0025326351}
+        length: 0.00633159
+        modified: 1
+    - boneName: scurity_guard_rig_ThumbFinger1_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: 0.002603586, y: 0, z: 0.001301793}
+        length: 0.0032544837
+        modified: 1
+    - boneName: scurity_guard_rig_ThumbFinger2_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0.0029272244, y: 0, z: 0.0014636122}
+        length: 0.0036590316
+        modified: 1
+    - boneName: scurity_guard_rig_ThumbFinger3_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0.002195418, y: 0, z: 0.001097709}
+        length: 0.0027442737
+        modified: 1
+    - boneName: scurity_guard_rig_IndexFinger1_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0.0019438206, y: 0, z: 0.0009719103}
+        length: 0.0024297764
+        modified: 1
+    - boneName: scurity_guard_rig_IndexFinger2_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.0011214651, y: 0, z: 0.00056073256}
+        length: 0.001401832
+        modified: 1
+    - boneName: scurity_guard_rig_IndexFinger3_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.000841099, y: 0, z: 0.0004205495}
+        length: 0.001051374
+        modified: 1
+    - boneName: scurity_guard_rig_MiddleFinger1_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: -7.5000005, z: -50}
+        max: {x: 0, y: 7.5000005, z: 50}
+        value: {x: 0.0031111469, y: 0, z: 0.0015555734}
+        length: 0.0038889346
+        modified: 1
+    - boneName: scurity_guard_rig_MiddleFinger2_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.0031052632, y: 0, z: 0.0015526316}
+        length: 0.0038815802
+        modified: 1
+    - boneName: scurity_guard_rig_MiddleFinger3_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.0023289472, y: 0, z: 0.0011644736}
+        length: 0.0029111851
+        modified: 1
+    - boneName: scurity_guard_rig_RingFinger1_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: -7.5000005, z: -50}
+        max: {x: 0, y: 7.5000005, z: 50}
+        value: {x: 0.0021827514, y: 0, z: 0.0010913757}
+        length: 0.0027284403
+        modified: 1
+    - boneName: scurity_guard_rig_RingFinger2_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.0011171637, y: 0, z: 0.00055858184}
+        length: 0.0013964551
+        modified: 1
+    - boneName: scurity_guard_rig_RingFinger3_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.0008378729, y: 0, z: 0.00041893646}
+        length: 0.0010473414
+        modified: 1
+    - boneName: scurity_guard_rig_PinkyFinger1_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0.0016540703, y: 0, z: 0.00082703517}
+        length: 0.0020675885
+        modified: 1
+    - boneName: scurity_guard_rig_PinkyFinger2_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.0008122122, y: 0, z: 0.0004061061}
+        length: 0.0010152655
+        modified: 1
+    - boneName: scurity_guard_rig_PinkyFinger3_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.00060915906, y: 0, z: 0.00030457953}
+        length: 0.0007614491
+        modified: 1
+    - boneName: scurity_guard_rig_ThumbFinger1_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: 0.002603576, y: 0, z: 0.001301788}
+        length: 0.003254471
+        modified: 1
+    - boneName: scurity_guard_rig_ThumbFinger2_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0.0029272311, y: 0, z: 0.0014636156}
+        length: 0.00365904
+        modified: 1
+    - boneName: scurity_guard_rig_ThumbFinger3_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0.0021954232, y: 0, z: 0.0010977116}
+        length: 0.00274428
+        modified: 1
+    - boneName: scurity_guard_rig_IndexFinger1_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0.0019438225, y: 0, z: 0.00097191124}
+        length: 0.0024297787
+        modified: 1
+    - boneName: scurity_guard_rig_IndexFinger2_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.0011214628, y: 0, z: 0.0005607314}
+        length: 0.0014018291
+        modified: 1
+    - boneName: scurity_guard_rig_IndexFinger3_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.0008410972, y: 0, z: 0.0004205486}
+        length: 0.0010513718
+        modified: 1
+    - boneName: scurity_guard_rig_MiddleFinger1_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: -7.5000005, z: -50}
+        max: {x: 0, y: 7.5000005, z: 50}
+        value: {x: 0.0031111315, y: 0, z: 0.0015555657}
+        length: 0.0038889155
+        modified: 1
+    - boneName: scurity_guard_rig_MiddleFinger2_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.0031053256, y: 0, z: 0.0015526628}
+        length: 0.0038816582
+        modified: 1
+    - boneName: scurity_guard_rig_MiddleFinger3_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.002328994, y: 0, z: 0.001164497}
+        length: 0.0029112436
+        modified: 1
+    - boneName: scurity_guard_rig_RingFinger1_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: -7.5000005, z: -50}
+        max: {x: 0, y: 7.5000005, z: 50}
+        value: {x: 0.7999998, y: 0, z: 0.3999999}
+        length: 1
+        modified: 1
+    - boneName: scurity_guard_rig_PinkyFinger1_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0.001654067, y: 0, z: 0.0008270335}
+        length: 0.0020675843
+        modified: 1
+    - boneName: scurity_guard_rig_PinkyFinger2_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.00081221765, y: 0, z: 0.00040610883}
+        length: 0.0010152723
+        modified: 1
+    - boneName: scurity_guard_rig_PinkyFinger3_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.00060916314, y: 0, z: 0.00030458157}
+        length: 0.0007614542
+        modified: 1
+    skeleton:
+    - name: cubeman
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rigRNlocator
+      position: {x: -0.00012493017, y: 0.08721879, z: 0.0058993385}
+      rotation: {x: 0, y: -0, z: 0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rigRNgroup
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Group
+      position: {x: 0.00012493017, y: -0.08721879, z: -0.0058993385}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Main
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_DeformationSystem
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Root_M
+      position: {x: 6.9849193e-10, y: 0.065850854, z: 0.0031785609}
+      rotation: {x: 0.000000020579515, y: 0.00000001234771, z: -0.70710677, w: 0.70710677}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_BackA_M
+      position: {x: -0.009421081, y: -8.388816e-10, z: 0.00066248374}
+      rotation: {x: 0.7070386, y: 0.009817171, z: -0.009817164, w: 0.7070386}
+      scale: {x: 0.9999999, y: 0.9999995, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_BackB_M
+      position: {x: -0.009247151, y: 0.0000000032305252, z: 0.0000000024534843}
+      rotation: {x: 0.000000029802317, y: -0.000000029802317, z: 0.052017365, w: 0.99864614}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1.0000001}
+      transformModified: 1
+    - name: scurity_guard_rig_Chest_M
+      position: {x: -0.009306997, y: -0.000000009313226, z: -2.0805802e-10}
+      rotation: {x: -0.000000014901158, y: 0.000000044703473, z: -0.038147572, w: 0.99927205}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Neck_M
+      position: {x: -0.019198678, y: -0.0029331162, z: 5.3290704e-17}
+      rotation: {x: 0.02014527, y: 0.00051156763, z: 0.025380611, w: 0.9994747}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_NeckPart1_M
+      position: {x: -0.0027882464, y: 0.00042282886, z: -0.000017046814}
+      rotation: {x: 0.020094572, y: 0.0015161335, z: 0.075219385, w: -0.9969633}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: scurity_guard_rig_NeckPart2_M
+      position: {x: -0.002820123, y: 1.6608492e-11, z: -1.3417533e-12}
+      rotation: {x: 0.02015176, y: -1.186794e-10, z: 9.587765e-12, w: 0.99979687}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Head_M
+      position: {x: -0.002820102, y: -0.000000021697677, z: -6.630763e-10}
+      rotation: {x: 0.020097312, y: -0.0014820691, z: -0.073529914, w: -0.9970893}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Eye_L
+      position: {x: -0.006128501, y: 0.00469756, z: 0.0066438164}
+      rotation: {x: -0.6866807, y: 0.7239469, z: 0.050159693, w: 0.043062676}
+      scale: {x: 1, y: 1, z: 0.9999997}
+      transformModified: 1
+    - name: scurity_guard_rig_Eye1_L
+      position: {x: -0.0054461253, y: -3.5527136e-17, z: -1.6653345e-18}
+      rotation: {x: -5.818062e-18, y: -0.75301707, z: 5.818062e-18, w: 0.6580009}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Eye_R
+      position: {x: -0.0061284984, y: 0.0046975734, z: -0.006643813}
+      rotation: {x: -0.6866806, y: 0.723947, z: -0.05015976, w: -0.04306268}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000004}
+      transformModified: 1
+    - name: scurity_guard_rig_Eye1_R
+      position: {x: -0.0054461253, y: -3.5527136e-17, z: 4.440892e-18}
+      rotation: {x: -5.818062e-18, y: -0.75301707, z: 5.818062e-18, w: 0.6580009}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Hair_M
+      position: {x: -0.019703936, y: 0.0029274411, z: -1.7411948e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Jaw_M
+      position: {x: -0.0015187274, y: 0.0002419386, z: 3.0865976e-10}
+      rotation: {x: 0.000000037252896, y: 0, z: -0.8819049, w: 0.47142723}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: scurity_guard_rig_JawEnd_M
+      position: {x: -0.011282984, y: 5.3290704e-17, z: -1.8251778e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Scapula_L
+      position: {x: -0.0050745467, y: -0.0022755566, z: 0.006537129}
+      rotation: {x: 0.397516, y: 0.5413254, z: 0.6014856, w: -0.4326231}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: scurity_guard_rig_Shoulder_L
+      position: {x: 0.009759622, y: -0.000000042608008, z: -0.0000000027939677}
+      rotation: {x: -0.43164662, y: -0.11302686, z: 0.15901302, w: 0.88069344}
+      scale: {x: 0.9999995, y: 0.99999976, z: 0.99999994}
+      transformModified: 1
+    - name: scurity_guard_rig_ShoulderPart1_L
+      position: {x: 0.0076315007, y: -5.867384e-10, z: 0.0000000017195475}
+      rotation: {x: 0.028928895, y: -0.0000000021998106, z: 0.0000000065247345, w: 0.9995814}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_ShoulderPart2_L
+      position: {x: 0.0076315007, y: -4.7133014e-10, z: 0.0000000017536307}
+      rotation: {x: 0.028928898, y: -0.000000001754583, z: 0.000000006654015, w: 0.9995814}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Elbow_L
+      position: {x: 0.0076314867, y: 0.000000028783685, z: 0.000000023374618}
+      rotation: {x: 0.058754127, y: -0.021392858, z: -0.020515323, w: 0.9978323}
+      scale: {x: 1.0000005, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: scurity_guard_rig_ElbowPart1_L
+      position: {x: 0.0062707523, y: 0.0000000010202355, z: 0.0000000039344394}
+      rotation: {x: 0.26279992, y: 0.000000043312617, z: 0.00000016537055, w: 0.9648503}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_ElbowPart2_L
+      position: {x: 0.0062707523, y: 0.0000000010665734, z: 0.000000003968168}
+      rotation: {x: 0.26279992, y: 0.00000004564017, z: 0.0000001664759, w: 0.9648503}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Wrist_L
+      position: {x: 0.0062707867, y: 0.0000000040168744, z: -0.0000000032953171}
+      rotation: {x: -0.18260033, y: 0.030558014, z: 0.078111716, w: 0.9796029}
+      scale: {x: 0.9999997, y: 1, z: 0.99999976}
+      transformModified: 1
+    - name: scurity_guard_rig_Cup_L
+      position: {x: 0.0034508693, y: -0.00052215613, z: -0.00065098336}
+      rotation: {x: 0.062003348, y: 0.04077531, z: 0.0033993272, w: 0.99723685}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: scurity_guard_rig_PinkyFinger1_L
+      position: {x: 0.00744554, y: -0.00016666399, z: -0.0015233491}
+      rotation: {x: -0.06820443, y: -0.04767366, z: 0.0343037, w: 0.99594104}
+      scale: {x: 1, y: 0.9999997, z: 0.99999994}
+      transformModified: 1
+    - name: scurity_guard_rig_PinkyFinger2_L
+      position: {x: 0.0020675887, y: -0.000000036336132, z: -0.0000000067375368}
+      rotation: {x: 0.000000023050225, y: 0.0000028619531, z: 0.036428742, w: 0.99933624}
+      scale: {x: 0.99999994, y: 0.99999964, z: 0.99999976}
+      transformModified: 1
+    - name: scurity_guard_rig_PinkyFinger3_L
+      position: {x: 0.0010152692, y: -0.0000000031723177, z: 0.0000000048277533}
+      rotation: {x: -0.00000023981542, y: 0.0000009294595, z: -0.038524598, w: -0.9992576}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000001}
+      transformModified: 1
+    - name: scurity_guard_rig_PinkyFinger4_L
+      position: {x: 0.001429798, y: -1.0658141e-16, z: 4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_RingFinger1_L
+      position: {x: 0.0072241044, y: -0.00026318914, z: -0.0003421849}
+      rotation: {x: -0.04066204, y: -0.055518225, z: 0.037118368, w: 0.9969386}
+      scale: {x: 1.0000002, y: 0.9999998, z: 0.9999998}
+      transformModified: 1
+    - name: scurity_guard_rig_RingFinger2_L
+      position: {x: 0.0027284399, y: -6.217249e-17, z: 1.7763568e-17}
+      rotation: {x: 0.000000067055204, y: 0.00000013504173, z: 0.22755949, w: 0.9737641}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_RingFinger3_L
+      position: {x: 0.0012923032, y: -0.00052918703, z: -5.529728e-10}
+      rotation: {x: -0.00000008940691, y: -0.00000035390235, z: 0.15575004, w: -0.9877964}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1.0000002}
+      transformModified: 1
+    - name: scurity_guard_rig_RingFinger4_L
+      position: {x: 0.0016133073, y: 1.0658141e-16, z: -6.661338e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_IndexFinger1_L
+      position: {x: 0.01005585, y: -0.00023500493, z: 0.0019793687}
+      rotation: {x: 0.06975307, y: -0.001831716, z: 0.0383512, w: 0.9968251}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_IndexFinger2_L
+      position: {x: 0.0024297799, y: -8.881784e-18, z: 2.6645352e-17}
+      rotation: {x: 0.00000063329895, y: 0.0000014016397, z: 0.23279153, w: 0.9725266}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_IndexFinger3_L
+      position: {x: 0.0012924745, y: -0.0005428134, z: 0.0000000054133125}
+      rotation: {x: 0.0000005215405, y: 0.0000014896501, z: 0.15958509, w: -0.9871841}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000001}
+      transformModified: 1
+    - name: scurity_guard_rig_IndexFinger4_L
+      position: {x: 0.0015177098, y: -1.2434498e-16, z: 8.881784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_MiddleFinger1_L
+      position: {x: 0.008865615, y: -0.000655797, z: 0.000000019790605}
+      rotation: {x: 0.0073540583, y: 0.02552004, z: 0.033358287, w: 0.9990905}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_MiddleFinger2_L
+      position: {x: 0.0038794694, y: 0.000039057464, z: 0.00026837864}
+      rotation: {x: 0.011232103, y: -0.024960905, z: -0.077005066, w: 0.99665487}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.9999998}
+      transformModified: 1
+    - name: scurity_guard_rig_MiddleFinger3_L
+      position: {x: 0.0037813783, y: 0.00087556965, z: 0.00003498711}
+      rotation: {x: -0.001955076, y: 0.00046949202, z: -0.039220188, w: -0.99922854}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: scurity_guard_rig_MiddleFinger4_L
+      position: {x: 0.0034829113, y: 0.00074539066, z: 0.000024946768}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_ThumbFinger1_L
+      position: {x: 0.0056801424, y: 0.001887119, z: 0.0015503558}
+      rotation: {x: 0.73314536, y: 0.27423587, z: 0.28440842, w: -0.553538}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: scurity_guard_rig_ThumbFinger2_L
+      position: {x: 0.0032544867, y: -0.000000019092113, z: 0.000000030035153}
+      rotation: {x: 0.02245902, y: 0.06126276, z: 0.024711717, w: 0.9975629}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000006}
+      transformModified: 1
+    - name: scurity_guard_rig_ThumbFinger3_L
+      position: {x: 0.0036273068, y: 0.000019014262, z: 0.00048041012}
+      rotation: {x: 0.6910266, y: -0.09027824, z: 0.021925077, w: 0.71683425}
+      scale: {x: 0.9999995, y: 0.99999934, z: 0.9999996}
+      transformModified: 1
+    - name: scurity_guard_rig_ThumbFinger4_L
+      position: {x: 0.0042401287, y: 0.00003424084, z: -0.00048698112}
+      rotation: {x: -0.7405842, y: 0.044801008, z: -0.14474857, w: 0.6546569}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Scapula_R
+      position: {x: -0.0050745537, y: -0.0022755542, z: -0.0065371254}
+      rotation: {x: -0.54132575, y: 0.39751554, z: -0.43262273, w: -0.6014859}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000001}
+      transformModified: 1
+    - name: scurity_guard_rig_Shoulder_R
+      position: {x: -0.009759599, y: 0.00000001816079, z: 0.000000022584572}
+      rotation: {x: -0.43164665, y: -0.11302699, z: 0.15901418, w: 0.8806932}
+      scale: {x: 0.9999998, y: 1, z: 1.0000004}
+      transformModified: 1
+    - name: scurity_guard_rig_ShoulderPart1_R
+      position: {x: -0.0076315007, y: -0.0000000011830561, z: -0.0000000014482188}
+      rotation: {x: -0.12821381, y: -0.000000020085595, z: -0.000000024119773, w: 0.9917465}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_ShoulderPart2_R
+      position: {x: -0.0076315007, y: -0.0000000012153725, z: -0.0000000014239647}
+      rotation: {x: -0.12821381, y: -0.000000020752388, z: -0.000000023727159, w: 0.9917465}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Elbow_R
+      position: {x: -0.007631509, y: -1.0557e-10, z: 0.000000010816397}
+      rotation: {x: 0.36500978, y: -0.013983654, z: -0.026133401, w: 0.93053174}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: scurity_guard_rig_ElbowPart1_R
+      position: {x: -0.0062707523, y: -0.000000004031743, z: -0.0000000010061949}
+      rotation: {x: 0.20793743, y: 0.00000013431283, z: 0.00000003384421, w: 0.9781421}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_ElbowPart2_R
+      position: {x: -0.0062707523, y: -0.000000004080341, z: -0.0000000010278924}
+      rotation: {x: 0.2079374, y: 0.0000001362944, z: 0.000000034325378, w: 0.9781421}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Wrist_R
+      position: {x: -0.006270768, y: -0.000000006682636, z: -0.000000036690547}
+      rotation: {x: -0.07106129, y: 0.02156216, z: 0.081057526, w: 0.9939391}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: scurity_guard_rig_Cup_R
+      position: {x: -0.0034509008, y: 0.0005221943, z: 0.0006509922}
+      rotation: {x: 0.028667977, y: 0.04063901, z: 0.0047589084, w: 0.99875116}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1.0000002}
+      transformModified: 1
+    - name: scurity_guard_rig_PinkyFinger1_R
+      position: {x: -0.0074455407, y: 0.00016671725, z: 0.0015233578}
+      rotation: {x: -0.067437984, y: -0.052871723, z: 0.033611257, w: 0.9957545}
+      scale: {x: 1.0000001, y: 0.99999976, z: 0.9999999}
+      transformModified: 1
+    - name: scurity_guard_rig_PinkyFinger2_R
+      position: {x: -0.0020675876, y: -0.000000041785825, z: 0.000000003623427}
+      rotation: {x: -0.00000030174823, y: 0.0000011175861, z: 0.03972096, w: 0.9992108}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+      transformModified: 1
+    - name: scurity_guard_rig_PinkyFinger3_R
+      position: {x: -0.0010152721, y: 0.000000036132406, z: 2.4116459e-11}
+      rotation: {x: 0.00000012665981, y: -0.00000006798652, z: 0.03553565, w: 0.99936837}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000005}
+      transformModified: 1
+    - name: scurity_guard_rig_PinkyFinger4_R
+      position: {x: -0.001429798, y: -3.5527136e-17, z: 4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_RingFinger1_R
+      position: {x: -0.007224077, y: 0.00026314007, z: 0.00034220546}
+      rotation: {x: -0.03853387, y: -0.061088696, z: 0.035781104, w: 0.9967461}
+      scale: {x: 1.0000002, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: scurity_guard_rig_RingFinger2_R
+      position: {x: -0.0027284399, y: 3.5527136e-17, z: 0}
+      rotation: {x: 0, y: 0, z: 0.21352594, w: 0.97693735}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_RingFinger3_R
+      position: {x: -0.0013964812, y: -5.3290704e-17, z: -8.881784e-18}
+      rotation: {x: 0, y: 0, z: 0.16407385, w: 0.986448}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_RingFinger4_R
+      position: {x: -0.0016133073, y: -1.7763567e-16, z: 4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_IndexFinger1_R
+      position: {x: -0.010055831, y: 0.00023494237, z: -0.0019793648}
+      rotation: {x: 0.0694866, y: 0.0034679563, z: 0.041295074, w: 0.99672174}
+      scale: {x: 0.9999999, y: 0.9999998, z: 1.0000001}
+      transformModified: 1
+    - name: scurity_guard_rig_IndexFinger2_R
+      position: {x: -0.0024297799, y: 1.0658141e-16, z: 0}
+      rotation: {x: 0.000000089406896, y: 0.00000079907414, z: 0.15247642, w: 0.98830706}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_IndexFinger3_R
+      position: {x: -0.0013657552, y: 0.00031597755, z: -0.000000004120011}
+      rotation: {x: 0.000000007450578, y: 0.0000000335276, z: -0.078039706, w: 0.9969502}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.99999994}
+      transformModified: 1
+    - name: scurity_guard_rig_IndexFinger4_R
+      position: {x: -0.0015177098, y: 1.0658141e-16, z: 1.3322676e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_MiddleFinger1_R
+      position: {x: -0.008865648, y: 0.00065585924, z: 0.00000001207809}
+      rotation: {x: 0.0044290423, y: 0.021809349, z: 0.035988383, w: 0.9991044}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+      transformModified: 1
+    - name: scurity_guard_rig_MiddleFinger2_R
+      position: {x: -0.0038794458, y: -0.000039082173, z: -0.0002683983}
+      rotation: {x: 0.008247522, y: -0.023257533, z: -0.07407275, w: 0.99694747}
+      scale: {x: 1, y: 1.0000001, z: 0.9999996}
+      transformModified: 1
+    - name: scurity_guard_rig_MiddleFinger3_R
+      position: {x: -0.0037814537, y: -0.00087558577, z: -0.0000349882}
+      rotation: {x: 0.0021576905, y: -0.00043959983, z: 0.038045727, w: 0.99927354}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000001}
+      transformModified: 1
+    - name: scurity_guard_rig_MiddleFinger4_R
+      position: {x: -0.0034829113, y: -0.00074539066, z: -0.000024946768}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_ThumbFinger1_R
+      position: {x: -0.0056801573, y: -0.001887125, z: -0.0015503498}
+      rotation: {x: -0.73314637, y: -0.27423725, z: -0.28440604, w: 0.55353725}
+      scale: {x: 0.9999999, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_ThumbFinger2_R
+      position: {x: -0.0032544718, y: 0.000000016996637, z: -0.000000004307367}
+      rotation: {x: 0.01622899, y: 0.059009343, z: 0.027572386, w: 0.99774456}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_ThumbFinger3_R
+      position: {x: -0.0036273154, y: -0.000019043204, z: -0.00048042377}
+      rotation: {x: 0.5008132, y: -0.105539106, z: 0.022238288, w: 0.85880905}
+      scale: {x: 1.0000002, y: 0.99999976, z: 0.99999994}
+      transformModified: 1
+    - name: scurity_guard_rig_ThumbFinger4_R
+      position: {x: -0.0042401287, y: -0.00003424084, z: 0.00048698112}
+      rotation: {x: -0.7405842, y: 0.044801008, z: -0.14474857, w: 0.6546569}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Hip_L
+      position: {x: 0.0049196905, y: -0.0078519, z: -0.000001916807}
+      rotation: {x: 0.6216565, y: -0.0034430446, z: -0.06011416, w: 0.7809722}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: scurity_guard_rig_HipPart1_L
+      position: {x: 0.008470275, y: 6.4416134e-10, z: -1.9865087e-11}
+      rotation: {x: -0.0016977339, y: -1.291239e-10, z: 2.8294695e-12, w: 0.9999985}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_HipPart2_L
+      position: {x: 0.008470277, y: -0.000000004947066, z: -0.0000000013379037}
+      rotation: {x: 0.0016977486, y: 0, z: 0.0000000149011585, w: 0.9999985}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: scurity_guard_rig_Knee_L
+      position: {x: 0.008470272, y: 0.0000000020758215, z: -7.8756235e-10}
+      rotation: {x: -0.000000044703476, y: 0, z: 0.06623703, w: -0.99780387}
+      scale: {x: 0.99999994, y: 1.0000004, z: 0.99999994}
+      transformModified: 1
+    - name: scurity_guard_rig_Ankle_L
+      position: {x: 0.026750922, y: 0.0000000039581205, z: -0.000000004370014}
+      rotation: {x: 0.30329883, y: 0.07225433, z: 0.0931835, w: 0.9455717}
+      scale: {x: 1, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: scurity_guard_rig_MiddleToe1_L
+      position: {x: 0.005382128, y: 0.011460915, z: -0.00018922985}
+      rotation: {x: -0.0001389682, y: 0.0000925362, z: -0.5513002, w: -0.8343069}
+      scale: {x: 0.9999998, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: scurity_guard_rig_BigToe_L
+      position: {x: -0.0015000323, y: -0.0053305863, z: -0.004043219}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_MiddleToe2_L
+      position: {x: 0.008978253, y: -0.0008624252, z: -0.0004587038}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_PinkyToe_L
+      position: {x: -0.0014252402, y: -0.0052987165, z: 0.004361803}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Hip_R
+      position: {x: 0.0049196663, y: 0.007851905, z: -0.0000019253716}
+      rotation: {x: -0.060114138, y: 0.7809722, z: -0.62165654, w: 0.0034430022}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: scurity_guard_rig_HipPart1_R
+      position: {x: -0.008470275, y: -6.39464e-10, z: -8.0151344e-11}
+      rotation: {x: 0.023924494, y: 0.0000000018038318, z: 2.4245583e-10, w: 0.9997137}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_HipPart2_R
+      position: {x: -0.008470275, y: -0.0000000033145413, z: -0.0000000048031046}
+      rotation: {x: -0.023924617, y: -0.00000001490116, z: 0.00000002980232, w: 0.9997137}
+      scale: {x: 0.99999976, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_Knee_R
+      position: {x: -0.008470281, y: -0.0000000019412003, z: 4.668196e-10}
+      rotation: {x: 0.00000017881392, y: 0.00000002980232, z: -0.066237025, w: 0.99780387}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+      transformModified: 1
+    - name: scurity_guard_rig_Ankle_R
+      position: {x: -0.02675093, y: 0.000000003026797, z: -0.0000000062275958}
+      rotation: {x: -0.30329892, y: -0.07225435, z: -0.093183495, w: -0.9455717}
+      scale: {x: 0.99999976, y: 1, z: 0.9999998}
+      transformModified: 1
+    - name: scurity_guard_rig_MiddleToe1_R
+      position: {x: -0.0053821304, y: -0.01146093, z: 0.00018923264}
+      rotation: {x: 0.00013890114, y: -0.000092506394, z: 0.5513001, w: 0.83430696}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: scurity_guard_rig_BigToe_R
+      position: {x: 0.0015000323, y: 0.0053305863, z: 0.004043219}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_MiddleToe2_R
+      position: {x: -0.008978253, y: 0.0008624252, z: 0.0004587038}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: scurity_guard_rig_PinkyToe_R
+      position: {x: 0.0014252402, y: 0.0052987165, z: -0.004361803}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

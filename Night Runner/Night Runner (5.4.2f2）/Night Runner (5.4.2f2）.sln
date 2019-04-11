@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Night Runner (5.4.2f2）", "Night Runner (5.4.2f2）.csproj", "{3B727E3C-8E40-727B-D399-8F840FD78D08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Night Runner (5.4.2f2）.Editor", "Night Runner (5.4.2f2）.Editor.csproj", "{5B7F2739-6BC9-C946-A6FD-987B56E93751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B727E3C-8E40-727B-D399-8F840FD78D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B727E3C-8E40-727B-D399-8F840FD78D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B727E3C-8E40-727B-D399-8F840FD78D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B727E3C-8E40-727B-D399-8F840FD78D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7F2739-6BC9-C946-A6FD-987B56E93751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7F2739-6BC9-C946-A6FD-987B56E93751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7F2739-6BC9-C946-A6FD-987B56E93751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7F2739-6BC9-C946-A6FD-987B56E93751}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

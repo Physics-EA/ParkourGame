@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Endless Run/SceneGame/TitleScene.unity
+  isLoaded: 1
+  isActive: 1

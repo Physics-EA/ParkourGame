@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/2DInfiniteRunnerToolkit/Scenes/4_X/GameLevelC#.unity
+  isLoaded: 1
+  isActive: 1
