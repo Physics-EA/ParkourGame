@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Night Runner (5.4.2f2）", "Night Runner (5.4.2f2）.csproj", "{3B727E3C-8E40-727B-D399-8F840FD78D08}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Night Runner (5.4.2f2）.Editor", "Night Runner (5.4.2f2）.Editor.csproj", "{5B7F2739-6BC9-C946-A6FD-987B56E93751}"
